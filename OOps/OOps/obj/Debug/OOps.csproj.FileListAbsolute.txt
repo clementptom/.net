@@ -1,0 +1,6 @@
+C:\Users\Joseph Thomas\Desktop\Dotnet\OOps\OOps\bin\Debug\OOps.exe.config
+C:\Users\Joseph Thomas\Desktop\Dotnet\OOps\OOps\bin\Debug\OOps.exe
+C:\Users\Joseph Thomas\Desktop\Dotnet\OOps\OOps\bin\Debug\OOps.pdb
+C:\Users\Joseph Thomas\Desktop\Dotnet\OOps\OOps\obj\Debug\OOps.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Thomas\Desktop\Dotnet\OOps\OOps\obj\Debug\OOps.exe
+C:\Users\Joseph Thomas\Desktop\Dotnet\OOps\OOps\obj\Debug\OOps.pdb

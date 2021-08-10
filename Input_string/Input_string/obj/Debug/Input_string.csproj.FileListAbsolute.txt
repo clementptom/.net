@@ -1,0 +1,6 @@
+C:\Users\Joseph Thomas\Desktop\Dotnet\Input_string\Input_string\bin\Debug\Input_string.exe.config
+C:\Users\Joseph Thomas\Desktop\Dotnet\Input_string\Input_string\bin\Debug\Input_string.exe
+C:\Users\Joseph Thomas\Desktop\Dotnet\Input_string\Input_string\bin\Debug\Input_string.pdb
+C:\Users\Joseph Thomas\Desktop\Dotnet\Input_string\Input_string\obj\Debug\Input_string.csproj.CoreCompileInputs.cache
+C:\Users\Joseph Thomas\Desktop\Dotnet\Input_string\Input_string\obj\Debug\Input_string.exe
+C:\Users\Joseph Thomas\Desktop\Dotnet\Input_string\Input_string\obj\Debug\Input_string.pdb
